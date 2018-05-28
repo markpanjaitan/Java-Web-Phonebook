@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 28, 2018, 3:33:25 PM
+    Author     : valentino
+*/
+
+table {
+    width: 400px;
+    padding: 4px;
+    background-color: aliceblue;
+}
+
+body {
+    background-color: lightblue;
+    font-family: Century, Malgun Gothic, sans-serif;
+    font-size: smaller;
+    padding: 70px;
+    color: navy;
+}
+
+H1 {
+    text-align: center;
+    letter-spacing: 6px;
+    font-size: 1.8em;
+    font-style: inherit;
+    color: darkred;
+    font-weight: bolder;
+    width: 700px;
+}
+
+H2 {
+    text-align: center;
+    letter-spacing: 6px;
+    font-size: 1.8em;
+    color: black;
+    font-weight: normal;
+    width: 200px;
+}
+
+
+H6 {
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 1em;
+    font-style: italic;
+    color: darkslateblue;
+    font-weight: normal;
+    width: 200px;
+}
