@@ -3,7 +3,7 @@ Java EE Web Phone Book
 
 This is my first CRUD Web Programming using Java EE.
 
-Software needed :
+Software used :
 
 - Java SE 1.8.0_171
 - Java RE 1.8.0_171
