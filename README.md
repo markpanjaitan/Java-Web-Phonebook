@@ -1,7 +1,7 @@
 # Java-Web-Phonebook
 Java EE Web Phone Book
 
-This is my first CRUD Web Programming using Java EE.
+This is my first try of CRUD Web Programming using Java EE.
 
 Software used :
 
